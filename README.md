@@ -14,7 +14,7 @@ This application allow you to write a note and store and it also allows you to d
 ## Installation
 Installed npm i 
 ## Usage
-run node.server.js into your terminal.
+run node.server.js into your terminal. Here's a breif walkthrough video - https://watch.screencastify.com/v/HIU7ulOoU1KScfKk9kIE
 ## Contributing
 I did this project with the help of my tutor Andrew Hardemon.
 ## Tests
